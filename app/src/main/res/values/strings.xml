@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">
+        Spec Explore</string>
+
+    <string name="share_to">
+        Share Using</string>
+
+    <string name="app_info_tagLine">
+        The purpose of technology is not to confuse the brain but to serve the body.</string>
+
+    <string name="open_source_license">
+        Open-source licenses</string>
+
+    <string name="Bitcoin_address">
+        qr7mjllay5eujc0r7k3x9x6gqdvzag9zuy7whasndr</string>
+
+    <string name="terms_and_conditions">
+        Please read these Terms and Conditions carefully before using the Spec Explore mobile application.\n\n
+        Your access to and use of the Service is conditioned on your acceptance of and compliance with
+        these Terms. These Terms apply to all visitors, users and others who access or use the Service.\n\n
+        1. Spec Explore application may contain links to third party websites or services that are not owned or
+        controlled by Developers. Developer shall not be responsible or liable, directly or indirectly,
+        for any damage or loss caused or alleged to be caused by or in connection with use of or reliace on
+        any such content and information.\n\n
+        2. The Developer is not responsible directly or indirectly for any loss or damage caused by the
+        information obtained from Spec Explore application.\n\n
+        3. User is agree not to reverse engineer, decompile, or attempt to gain access to code or assets of
+        Spec Explore application.\n\n
+        4. Developer reverse the right, at our sole discretion, to modify or
+        replace these Terms at any time without notice.\n\n
+        If you have any questions about these Terms, please contact developer.</string>
+
+    <string name="mkLoader_library">
+        https://github.com/nntuyen/mkloader\n\nCopyright 2017 Tuyen Monkey
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+
+    <string name="Picasso_library">
+        https://github.com/square/picasso\n\nCopyright 2013 Square, Inc.
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+
+    <string name="Circle_image_library">
+        https://github.com/hdodenhof/CircleImageView\n\nCopyright 2014 - 2018 Henning Dodenhof
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+
+    <string name="Retrofit_library">
+        https://github.com/square/retrofit\n\nCopyright 2013 Square, Inc.
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+
+    <string name="Jsoup_library">
+        https://github.com/jhy/jsoup\n\n
+        The jsoup code-base (including source and compiled packages)
+        are distributed under the open source MIT license as described below.\n\n
+        The MIT License \nCopyright © 2009 - 2017 Jonathan Hedley (jonathan@hedley.net)\n\n
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"),
+        to deal in the Software without restriction, including without limitation
+        the rights to use, copy, modify, merge, publish, distribute, sublicense,
+        and/or sell copies of the Software, and to permit persons to whom the Software
+        is furnished to do so, subject to the following conditions:\n\n
+        The above copyright notice and this permission notice shall be included in
+        all copies or substantial portions of the Software.\n\n
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+        INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+        PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+        BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+        TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+        OTHER DEALINGS IN THE SOFTWARE.</string>
+
+    <string name="Gson_library">
+        https://github.com/google/gson\n\nCopyright 2008 Google Inc.
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+
+</resources>
